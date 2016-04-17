@@ -1,6 +1,6 @@
 name: Polymathy Collective
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.84489
 typography_spectrum: 0.58473
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.7871778341941535
-  lightness: 0.9472654226701707
-  saturation: 0.14065658045001328
-  rhythmicContrast: 0.27959721442312
+    - '#0b0b0b'
+    - '#585550'
+    - '#78756a'
+    - '#d3cfb8'
+    - '#f3efdb'
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
