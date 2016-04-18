@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Polymathy Collective]]></title>
-        <description><![CDATA[Polymathy Collective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Polymathy Collective]]></title>
+        <description><![CDATA[The Polymathy Collective]]></description>
+        <link>https://thegrid.ai/thechaosstrain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 03:58:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 05:24:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thechaosstrain/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/035205cf-5524-44aa-94c2-761299389947.jpg">]]></description>
-            <link>undefined26baf38e-e133-4457-91bf-f08c03309b54/index.html</link>
+            <title><![CDATA[Creators by birth …  ]]></title>
+            <description><![CDATA[<article><h1>Creators by birth …  </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a70599df98e96d7b4b33a8cc7150f693ed54900f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thechaosstrain/26baf38e-e133-4457-91bf-f08c03309b54/index.html</link>
             <guid isPermaLink="false">26baf38e-e133-4457-91bf-f08c03309b54</guid>
-            <pubDate>Sun, 17 Apr 2016 03:58:05 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 05:23:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
